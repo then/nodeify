@@ -84,3 +84,5 @@ function myAsyncMethod(arg, callback) {
 ## Licence
 
   MIT
+
+![viewcount](https://viewcount.jepso.com/count/then/nodeify.png)
