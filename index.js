@@ -2,7 +2,7 @@ var Promise = require('promise');
 var isPromise = require('is-promise');
 
 var nextTick;
-if (typeof setImediate === 'function') nextTick = setImediate
+if (typeof setImmediate === 'function') nextTick = setImmediate
 else if (typeof process === 'object' && process && process.nextTick) nextTick = process.nextTick
 else nextTick = function (cb) { setTimeout(cb, 0) }
 
