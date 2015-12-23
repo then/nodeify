@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/then/nodeify.png?branch=master)](https://travis-ci.org/then/nodeify)
+[![Build Status](https://img.shields.io/travis/then/nodeify/master.svg)](https://travis-ci.org/then/nodeify)
 # Nodeify
 
   Convert promised code to use node style callbacks.  If no callback is provided it will just return the original promise.
