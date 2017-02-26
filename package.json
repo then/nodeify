@@ -1,6 +1,6 @@
 {
   "name": "nodeify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert promised code to use node style callbacks",
   "scripts": {
     "test": "mocha -R spec",
